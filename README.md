@@ -9,7 +9,7 @@ The objective here is to model the flow of excavation fluids around the shield o
 1. The flow in the GAP between the shield and the soil cavity causes a pressure drop in the fluid, which can be computed through the equilibrium of forces in a rectangular section (dl x GAP) where the pressure difference (dP.gap) is equal to the shear force (T.dl), so that dP=T.dl/gap
 
 
-![Increment of Water Pressure](/images/tbm_flow.svg)
+![Increment of Water Pressure](/images/tbm_flow.png)
 
 
 **Published References:**
